@@ -38,7 +38,7 @@ The COVID-19 pandemic has both created the need for such experience in current e
 
 ## Data-Driven Research Experiences
 
-### MIMIC34MD
+### MIMIC34MD Short Course for MD1 Students
 
 - ICU Datamart created in collaboration between MIT and Beth-Israel Deaconess Hospital
 - ~65k de-identified cases
