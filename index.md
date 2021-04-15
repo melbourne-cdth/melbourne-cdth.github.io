@@ -2,7 +2,7 @@
 
 The Centre for the Digital Transformation of Health is working with partners throughout the university and the national and international community to create curricula for medical students that will allow the students to develop the skills and understanding to practice medicine and conduct research effectively in digitally connected health spaces.
 
-The COVID-19 pandemic has both created the need for such experience in current education and highlighted the reality of the transforming healthcare environments. 
+The COVID-19 pandemic has both created the need for such experience in current education and highlighted the reality of the transforming healthcare environments.
 
 ## What Has the CDTH Been Doing?
 
@@ -26,7 +26,11 @@ The COVID-19 pandemic has both created the need for such experience in current e
 
 ## Interviews Regarding Informatics Experiences
 
+#### What should medical students know about the EHR?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-ZviegIGkE?start=2217" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### How did the EHR contribute to learning COVID-19 guidelines?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-xnEmRpq_Y?start=1190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
